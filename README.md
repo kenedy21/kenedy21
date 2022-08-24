@@ -5,6 +5,6 @@
 - 📫 How to reach me ...kakeomken@gmail.com
 
 <!---
-kenedy21/kenedy21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kenedy21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
